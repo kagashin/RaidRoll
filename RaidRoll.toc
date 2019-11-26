@@ -1,0 +1,10 @@
+## Title: RaidRoll
+## Version: 1.0
+## Author: Kalad
+## Interface: 80205
+## SavedVariables: RaidRollDB
+
+
+embeds.xml
+
+RaidRoll.lua
